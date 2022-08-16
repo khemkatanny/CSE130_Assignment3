@@ -1,0 +1,4 @@
+manpage.c: In function ‘manpage’:
+manpage.c:44:7: warning: unused variable ‘pid’ [-Wunused-variable]
+   int pid = getParagraphId(); // pid = 'Paragraph Id"
+       ^~~
